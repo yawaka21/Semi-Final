@@ -1,0 +1,128 @@
+.yello{
+    background-color:#FAFF47;
+    position: absolute;
+    width: 400px;
+    margin-left: 900px;
+    height: 600px;
+    margin-bottom: 100px;
+
+}
+.yello,li{
+    display: inline;
+}
+.but{
+    width: 1000px;
+    position: absolute;
+    width: 1300px;
+    background-color: rgb(7, 102, 7);
+    margin-top:500px;
+    height: 250px;
+}
+
+
+.home{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    padding-left: 500px;
+    
+}
+.home,li{
+    margin-left: 20px;
+}
+.bri{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.p1{
+    position: absolute;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+}
+.price{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 200px;
+}
+.price1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.price2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.size1{
+    font-size:40px;
+}
+.per{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 200px;
+    font-size: 20px;
+
+}
+.but1{
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 240px;
+}
+.button{
+    background-color: black;
+    border-style: none;
+    color: white;
+    width:200px;
+    height: 50px;
+
+}
+.but2{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.but3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 220px;
+    margin-top: 80px;
+    font-size: 30px;
+}
+.but4{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 600px;
+}
+.picture1{
+    position: absolute;
+    width: 100px;
+    margin-left: 700px;
+    
+}
+.sign{
+    background-color: black;
+    color: white;
+    border-style: none;
+
+}
+.butt{
+    position: absolute;
+   margin-left: 1050px;
+   margin-top: 10px;
+
+}
+.butt1{
+    
+    background-color: black;
+    color: white; 
+    border-style: none;
+    width: 90px;
+    height: 30px;
+
+}
